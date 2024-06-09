@@ -8,21 +8,17 @@
 
 ---
 **BackEnd Technologies:**
-- ![C](https://img.icons8.com/color/16/000000/c-programming.png) C  - ![C++](https://img.icons8.com/color/16/000000/c-plus-plus-logo.png) C++  - ![C#](https://img.icons8.com/color/16/000000/c-sharp-logo.png) C#  - ![OOP](https://img.icons8.com/color/16/000000/object.png) OOP  - ![ASP LINQ](https://img.icons8.com/ios-filled/16/000000/code.png) ASP LINQ  - ![Entity Framework](https://img.icons8.com/ios-filled/16/000000/database.png) ASP Entity Framework (EF)  -  MVC  - ![API](https://img.icons8.com/ios-filled/16/000000/api.png) API  - ![SQL](https://img.icons8.com/ios-filled/16/000000/sql.png) SQL  -  SignalR  - ![Design Patterns](https://img.icons8.com/ios-filled/16/000000/pattern.png) Design Patterns  - ![Unit Testing](https://img.icons8.com/ios-filled/16/000000/test-tube.png) Unit Testing
+- ![C](https://img.icons8.com/color/16/000000/c-programming.png) C  - ![C++](https://img.icons8.com/color/16/000000/c-plus-plus-logo.png) C++  - ![C#](https://img.icons8.com/color/16/000000/c-sharp-logo.png) C#  - ![OOP](https://img.icons8.com/color/16/000000/object.png) OOP  - ![ASP LINQ](https://img.icons8.com/ios-filled/16/000000/code.png) ASP LINQ  - ![Entity Framework](https://img.icons8.com/ios-filled/16/000000/database.png) ASP Entity Framework (EF)  -  MVC  - ![API](https://img.icons8.com/ios-filled/16/000000/api.png) API  - ![SQL](https://img.icons8.com/ios-filled/16/000000/sql.png) SQL  -  SignalR  -Design Patterns  - ![Unit Testing](https://img.icons8.com/ios-filled/16/000000/test-tube.png) Unit Testing
 
 **Project Management:** -Agile methodologies
 
 **FrontEnd Technologies:**
-- ![Angular](https://img.icons8.com/color/16/000000/angularjs.png) Angular   - ![React](https://img.icons8.com/color/16/000000/react-native.png) React   - Blazor
-- ![JavaScript](https://img.icons8.com/color/16/000000/javascript.png) JavaScript (JS)   - ![TypeScript](https://img.icons8.com/color/16/000000/typescript.png) TypeScript (TS)   - ![Bootstrap](https://img.icons8.com/color/16/000000/bootstrap.png) Bootstrap5   - ![HTML](https://img.icons8.com/color/16/000000/html-5.png) HTML5 ![CSS](https://img.icons8.com/color/16/000000/css3.png) CSS3   -  AJAX   -  Regular Expressions (Regex)   
+- ![Angular](https://img.icons8.com/color/16/000000/angularjs.png) Angular   - ![React](https://img.icons8.com/color/16/000000/react-native.png) React   - Blazor  -![JavaScript](https://img.icons8.com/color/16/000000/javascript.png) JavaScript (JS)   - ![TypeScript](https://img.icons8.com/color/16/000000/typescript.png) TypeScript (TS)   - ![Bootstrap](https://img.icons8.com/color/16/000000/bootstrap.png) Bootstrap5   - ![HTML](https://img.icons8.com/color/16/000000/html-5.png) HTML5 ![CSS](https://img.icons8.com/color/16/000000/css3.png) CSS3   -  AJAX   -  Regular Expressions (Regex)
+
 **Version Control:**
 - ![Git](https://img.icons8.com/color/16/000000/git.png) Git
 - ![GitHub](https://img.icons8.com/material-rounded/16/000000/github.png) GitHub
 
----
-#### Contact
-
-Feel free to reach out via [![LinkedIn](https://img.icons8.com/ios-filled/16/000000/linkedin.png)](https://linkedin.com/in/gehad-nabel-a772bb213) [LinkedIn](https://linkedin.com/in/gehad-nabel-a772bb213) or email me at [![Email](https://img.icons8.com/ios-filled
 
 <!--
 **GehadNabel24/GehadNabel24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
