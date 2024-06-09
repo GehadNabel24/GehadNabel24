@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hi there, I'm Gehad Nabel Moustafa Mohammed 👋
 
+#### Full Stack Dot Net Developer
+
+📧 gehadnabel298@gmail.com  
+📞 (+20) 1028 867 725  
+🌐 [GitHub](https://github.com/GehadNabel24)  
+🏠 El Menofya, Egypt (Ready to relocate)  
+🔗 [LinkedIn](https://linkedin.com/in/gehad-nabel-a772bb213)
 <!--
 **GehadNabel24/GehadNabel24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
