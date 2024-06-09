@@ -2,20 +2,10 @@
 
 #### Full Stack Dot Net Developer
 
-📧 [![Email](https://img.icons8.com/ios-filled/20/000000/email.png)](mailto:gehadnabel298@gmail.com) gehadnabel298@gmail.com  
-📞 [![Phone](https://img.icons8.com/ios-filled/20/000000/phone.png)](tel:+201028867725) (+20) 1028 867 725  
-🌐 [![GitHub](https://img.icons8.com/ios-glyphs/20/000000/github.png)](https://github.com/GehadNabel24) [GitHub](https://github.com/GehadNabel24)  
-🏠 [![Location](https://img.icons8.com/ios-filled/20/000000/marker.png)](https://www.google.com/maps/place/El+Menofya,+Egypt) El Menofya, Egypt (Ready to relocate)  
-🔗 [![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png)](https://linkedin.com/in/gehad-nabel-a772bb213) [LinkedIn](https://linkedin.com/in/gehad-nabel-a772bb213)
-
+📧 gehadnabel298@gmail.com  
+🌐 [GitHub](https://github.com/GehadNabel24)  
+🔗 [LinkedIn](https://linkedin.com/in/gehad-nabel-a772bb213)
 ---
-
-#### PROFILE
-
-Highly skilled Full-stack Developer with a strong foundation in Computer Science and a 9-month scholarship in Professional Web Development and Business Intelligence. Proficient in Angular, C#, ASP.NET MVC, and Web API. Experienced in building scalable, user-friendly web applications.
-
----
-
 #### Competencies
 
 - ![Code](https://img.icons8.com/ios-filled/16/000000/source-code.png) Developing reusable code libraries
@@ -24,26 +14,15 @@ Highly skilled Full-stack Developer with a strong foundation in Computer Science
 - ![Team](https://img.icons8.com/ios-filled/16/000000/conference-call.png) Collaborating with product owners and designers
 - ![Features](https://img.icons8.com/ios-filled/16/000000/new.png) Implementing client-side features
 - ![Collaboration](https://img.icons8.com/ios-filled/16/000000/network.png) End-to-end collaboration with backend engineers
-- ![Agile](https://img.icons8.com/ios-filled/16/000000/scrum.png) Utilizing Agile methodologies for software design, development, testing, deployment, maintenance, and improvement
+- ! Utilizing Agile methodologies for software design, development, testing, deployment, maintenance, and improvement
 
 ---
 
 #### Experience & Skills
 
 **BackEnd Technologies:**
-- ![C](https://img.icons8.com/color/16/000000/c-programming.png) C
-- ![C++](https://img.icons8.com/color/16/000000/c-plus-plus-logo.png) C++
-- ![C#](https://img.icons8.com/color/16/000000/c-sharp-logo.png) C#
-- ![OOP](https://img.icons8.com/color/16/000000/object.png) OOP
-- ![ASP LINQ](https://img.icons8.com/ios-filled/16/000000/code.png) ASP LINQ
-- ![Entity Framework](https://img.icons8.com/ios-filled/16/000000/database.png) ASP Entity Framework (EF)
-- ![MVC](https://img.icons8.com/ios-filled/16/000000/layer.png) MVC
-- ![API](https://img.icons8.com/ios-filled/16/000000/api.png) API
-- ![SQL](https://img.icons8.com/ios-filled/16/000000/sql.png) SQL
-- ![SignalR](https://img.icons8.com/ios-filled/16/000000/signal.png) SignalR
-- ![Design Patterns](https://img.icons8.com/ios-filled/16/000000/pattern.png) Design Patterns
-- ![Unit Testing](https://img.icons8.com/ios-filled/16/000000/test-tube.png) Unit Testing
-
+- ![C](https://img.icons8.com/color/16/000000/c-programming.png) C  - ![C++](https://img.icons8.com/color/16/000000/c-plus-plus-logo.png) C++  - ![C#](https://img.icons8.com/color/16/000000/c-sharp-logo.png) C#  - ![OOP](https://img.icons8.com/color/16/000000/object.png) OOP  - ![ASP LINQ](https://img.icons8.com/ios-filled/16/000000/code.png) ASP LINQ  - ![Entity Framework](https://img.icons8.com/ios-filled/16/000000/database.png) ASP Entity Framework (EF)  - ! MVC - ![API](https://img.icons8.com/ios-filled/16/000000/api.png) API - ![SQL](https://img.icons8.com/ios-filled/16/000000/sql.png) SQL - ![SignalR](https://img.icons8.com/ios-filled/16/000000/signal.png) SignalR  - ![Design Patterns](https://img.icons8.com/ios-filled/16/000000/pattern.png) Design Patterns
+- ![Unit Testing](https://img.icons8.com/ios-filled/16/000000/test-tube.png) Unit Testing  
 **Project Management:**
 - ![Agile](https://img.icons8.com/ios-filled/16/000000/scrum.png) Agile methodologies
 
