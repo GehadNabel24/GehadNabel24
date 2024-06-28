@@ -1,36 +1,43 @@
-### Hi there, I'm Gehad Nabel Moustafa Mohammed 👋
+# Gehad Nabel
 
-#### Full Stack Dot Net Developer
+A passionate software developer from Egypt
 
-📧 gehadnabel298@gmail.com  
-🌐 [GitHub](https://github.com/GehadNabel24)  
-🔗 [LinkedIn](https://linkedin.com/in/gehad-nabel-a772bb213)
+## 💫 About Me:
+- 🔭 I’m currently working on ITI Scholarship
+- 🌱 I’m currently learning Angular, .NET Framework
+- 💬 Ask me about HTML, CSS, JS
+- 👨‍💻 All of my projects are available at [github.com/GehadNabel](https://github.com/GehadNabel)
+- 📫 How to reach me gehad.nabel@example.com
+- ⚡ Fun fact: I think I am funny
 
----
-**BackEnd Technologies:**
-- ![C](https://img.icons8.com/color/16/000000/c-programming.png) C  - ![C++](https://img.icons8.com/color/16/000000/c-plus-plus-logo.png) C++  - ![C#](https://img.icons8.com/color/16/000000/c-sharp-logo.png) C#  - ![OOP](https://img.icons8.com/color/16/000000/object.png) OOP  - ![ASP LINQ](https://img.icons8.com/ios-filled/16/000000/code.png) ASP LINQ  - ASP Entity Framework (EF)  -  MVC  - ![API](https://img.icons8.com/ios-filled/16/000000/api.png) API  - ![SQL](https://img.icons8.com/ios-filled/16/000000/sql.png) SQL  -  SignalR  -Design Patterns  - ![Unit Testing](https://img.icons8.com/ios-filled/16/000000/test-tube.png) Unit Testing
+## 🌐 Socials:
+[Facebook](https://facebook.com/yourprofile) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
-**Project Management:** -Agile methodologies
+## 💻 Tech Stack:
+- **Languages:** C, C#, C++, CSS3, HTML5, JavaScript, Markdown, Python, TypeScript
+- **Technologies:** Azure, Firebase, GitHub Pages, Netlify, Vercel
+- **Frameworks/Libraries:** .Net, Angular, Bootstrap, Express.js, Gulp, jQuery, NPM, NodeJS, React, SASS, TailwindCSS, Webpack, Yarn
+- **Databases:** Firebase, Microsoft SQL Server, MongoDB
+- **Tools:** Figma, Canva, Babel, ESLint, Power BI
 
-**FrontEnd Technologies:**
-- ![Angular](https://img.icons8.com/color/16/000000/angularjs.png) Angular   - ![React](https://img.icons8.com/color/16/000000/react-native.png) React   - Blazor  -![JavaScript](https://img.icons8.com/color/16/000000/javascript.png) JavaScript   - ![TypeScript](https://img.icons8.com/color/16/000000/typescript.png) TypeScript (TS)   - ![Bootstrap](https://img.icons8.com/color/16/000000/bootstrap.png) Bootstrap5   - ![HTML](https://img.icons8.com/color/16/000000/html-5.png) HTML5 ![CSS](https://img.icons8.com/color/16/000000/css3.png) CSS3   -  AJAX   -  Regex
+## 📊 GitHub Stats:
+![Gehad's GitHub stats](https://github-readme-stats.vercel.app/api?username=GehadNabel&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GehadNabel&layout=compact&theme=radical)
+![Gehad's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GehadNabel&theme=radical)
+![Gehad's activity graph](https://activity-graph.herokuapp.com/graph?username=GehadNabel&theme=radical)
 
-**Version Control:**
-- ![Git](https://img.icons8.com/color/16/000000/git.png) Git
-- ![GitHub](https://img.icons8.com/material-rounded/16/000000/github.png) GitHub
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=GehadNabel&theme=radical)
 
+## ✍️ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--
-**GehadNabel24/GehadNabel24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😂 Random Dev Meme
+![Meme](https://github-readme-memes.herokuapp.com/meme?theme=radical)
 
-Here are some ideas to get you started:
+## Popular repositories
+[![just_code](https://github-readme-stats.vercel.app/api/pin/?username=GehadNabel&repo=just_code&theme=radical)](https://github.com/GehadNabel/just_code)
+[![your_repo](https://github-readme-stats.vercel.app/api/pin/?username=GehadNabel&repo=your_repo&theme=radical)](https://github.com/GehadNabel/your_repo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GehadNabel&theme=radical)
