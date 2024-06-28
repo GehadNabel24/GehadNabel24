@@ -70,4 +70,7 @@ A passionate software developer from Egypt
 
 ## Popular repositories
 [![just_code](https://github-readme-stats.vercel.app/api/pin/?username=GehadNabel&repo=just_code&theme=radical)](https://github.com/GehadNabel/just_code)
-[
+[![your_repo](https://github-readme-stats.vercel.app/api/pin/?username=GehadNabel&repo=your_repo&theme=radical)](https://github.com/GehadNabel/your_repo)
+
+## Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GehadNabel&theme=radical)
