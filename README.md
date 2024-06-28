@@ -52,24 +52,3 @@ A passionate software developer from Egypt
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
 
-## 📊 GitHub Stats:
-![Gehad's GitHub stats](https://github-readme-stats.vercel.app/api?username=GehadNabel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GehadNabel&layout=compact&theme=radical)
-![Gehad's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GehadNabel&theme=radical)
-![Gehad's activity graph](https://activity-graph.herokuapp.com/graph?username=GehadNabel&theme=radical)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=GehadNabel&theme=radical)
-
-## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 😂 Random Dev Meme
-![Meme](https://github-readme-memes.herokuapp.com/meme?theme=radical)
-
-## Popular repositories
-[![just_code](https://github-readme-stats.vercel.app/api/pin/?username=GehadNabel&repo=just_code&theme=radical)](https://github.com/GehadNabel/just_code)
-[![your_repo](https://github-readme-stats.vercel.app/api/pin/?username=GehadNabel&repo=your_repo&theme=radical)](https://github.com/GehadNabel/your_repo)
-
-## Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GehadNabel&theme=radical)
