@@ -1,5 +1,4 @@
 # Gehad Nabel
-![Hi There! I'm Gehad Nabel]
 
 A passionate software developer from Egypt
 
@@ -7,8 +6,6 @@ A passionate software developer from Egypt
 - 🔭 I’m currently working on ITI Scholarship
 - 🌱 I’m currently learning Angular, .NET Framework
 - 💬 Ask me about HTML, CSS, JS
-- 👨‍💻 All of my projects are available at [github.com/GehadNabel](https://github.com/GehadNabel)
-- 📫 How to reach me gehad.nabel@example.com
 - ⚡ Fun fact: I think I am funny
 
 ## 🌐 Socials:
